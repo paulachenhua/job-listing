@@ -15,4 +15,5 @@
 //= require turbolinks
 //= require bootstrap/alert
 //= require bootstrap/dropdown
-//= require_tree .
+//= require bootstrap/modal
+//= require_tree 
